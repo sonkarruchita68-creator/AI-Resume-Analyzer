@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python database
+*.db
+*.sqlite3
+
+# Uploaded resumes
+backend/uploads/
+
+# React and Node.js
+node_modules/
+dist/
+frontend/node_modules/
+backend/frontend/node_modules/
+backend/frontend/dist/
+
+# Logs
+*.log
+
+# Editor
+.vscode/
